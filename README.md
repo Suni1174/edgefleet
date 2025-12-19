@@ -100,10 +100,6 @@ Generates trajectory overlays and per-video visualizations
 
 ## Results
 
-[results/collage.mp4](results/collage.mp4) contains the final collage video showing the tracked cricket ball across multiple test videos. The video includes:
-
-
-https://github.com/Suni1174/edgefleet/blob/main/results/collage.mp4
-
+[results/collage.mp4](results/collage.mp4) contains the final collage video showing the tracked cricket ball across multiple test videos.
 
 The final outputs from multiple runs are aggregated into a single collage video for easy qualitative inspection.
