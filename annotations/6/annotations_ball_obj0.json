@@ -1,0 +1,3403 @@
+{
+  "object_id": 0,
+  "prompt": "ball",
+  "total_frames": 566,
+  "annotations": [
+    {
+      "frame_index": 0,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 1,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 2,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 3,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 4,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 5,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 6,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 7,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 8,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 9,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 10,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 11,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 12,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 13,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 14,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 15,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 16,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 17,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 18,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 19,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 20,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 21,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 22,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 23,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 24,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 25,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 26,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 27,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 28,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 29,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 30,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 31,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 32,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 33,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 34,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 35,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 36,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 37,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 38,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 39,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 40,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 41,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 42,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 43,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 44,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 45,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 46,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 47,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 48,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 49,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 50,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 51,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 52,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 53,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 54,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 55,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 56,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 57,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 58,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 59,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 60,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 61,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 62,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 63,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 64,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 65,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 66,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 67,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 68,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 69,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 70,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 71,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 72,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 73,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 74,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 75,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 76,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 77,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 78,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 79,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 80,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 81,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 82,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 83,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 84,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 85,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 86,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 87,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 88,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 89,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 90,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 91,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 92,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 93,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 94,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 95,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 96,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 97,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 98,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 99,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 100,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 101,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 102,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 103,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 104,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 105,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 106,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 107,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 108,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 109,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 110,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 111,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 112,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 113,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 114,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 115,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 116,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 117,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 118,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 119,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 120,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 121,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 122,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 123,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 124,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 125,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 126,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 127,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 128,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 129,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 130,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 131,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 132,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 133,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 134,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 135,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 136,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 137,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 138,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 139,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 140,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 141,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 142,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 143,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 144,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 145,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 146,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 147,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 148,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 149,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 150,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 151,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 152,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 153,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 154,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 155,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 156,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 157,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 158,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 159,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 160,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 161,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 162,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 163,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 164,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 165,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 166,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 167,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 168,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 169,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 170,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 171,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 172,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 173,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 174,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 175,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 176,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 177,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 178,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 179,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 180,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 181,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 182,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 183,
+      "x_centroid": 1360.4622641509434,
+      "y_centroid": 449.2358490566038,
+      "visibility": 1
+    },
+    {
+      "frame_index": 184,
+      "x_centroid": 1361.0393258426966,
+      "y_centroid": 449.90449438202245,
+      "visibility": 1
+    },
+    {
+      "frame_index": 185,
+      "x_centroid": 1361.2439024390244,
+      "y_centroid": 449.1056910569106,
+      "visibility": 1
+    },
+    {
+      "frame_index": 186,
+      "x_centroid": 1360.1525423728813,
+      "y_centroid": 449.1186440677966,
+      "visibility": 1
+    },
+    {
+      "frame_index": 187,
+      "x_centroid": 1360.969135802469,
+      "y_centroid": 448.7716049382716,
+      "visibility": 1
+    },
+    {
+      "frame_index": 188,
+      "x_centroid": 1361.3805309734514,
+      "y_centroid": 451.4646017699115,
+      "visibility": 1
+    },
+    {
+      "frame_index": 189,
+      "x_centroid": 1361.2231759656652,
+      "y_centroid": 451.52360515021456,
+      "visibility": 1
+    },
+    {
+      "frame_index": 190,
+      "x_centroid": 1362.2048780487805,
+      "y_centroid": 450.9560975609756,
+      "visibility": 1
+    },
+    {
+      "frame_index": 191,
+      "x_centroid": 1362.265306122449,
+      "y_centroid": 451.0255102040816,
+      "visibility": 1
+    },
+    {
+      "frame_index": 192,
+      "x_centroid": 1363.7537313432836,
+      "y_centroid": 446.1044776119403,
+      "visibility": 1
+    },
+    {
+      "frame_index": 193,
+      "x_centroid": 1363.6521739130435,
+      "y_centroid": 445.3333333333333,
+      "visibility": 1
+    },
+    {
+      "frame_index": 194,
+      "x_centroid": 1365.2875,
+      "y_centroid": 446.08125,
+      "visibility": 1
+    },
+    {
+      "frame_index": 195,
+      "x_centroid": 1365.26582278481,
+      "y_centroid": 445.9177215189873,
+      "visibility": 1
+    },
+    {
+      "frame_index": 196,
+      "x_centroid": 1363.7142857142858,
+      "y_centroid": 436.3061224489796,
+      "visibility": 1
+    },
+    {
+      "frame_index": 197,
+      "x_centroid": 1363.659574468085,
+      "y_centroid": 436.36170212765956,
+      "visibility": 1
+    },
+    {
+      "frame_index": 198,
+      "x_centroid": 1365.3214285714287,
+      "y_centroid": 437.05357142857144,
+      "visibility": 1
+    },
+    {
+      "frame_index": 199,
+      "x_centroid": 1365.3684210526317,
+      "y_centroid": 436.87719298245617,
+      "visibility": 1
+    },
+    {
+      "frame_index": 200,
+      "x_centroid": 1366.8225806451612,
+      "y_centroid": 436.5806451612903,
+      "visibility": 1
+    },
+    {
+      "frame_index": 201,
+      "x_centroid": 1366.4150943396226,
+      "y_centroid": 436.41509433962267,
+      "visibility": 1
+    },
+    {
+      "frame_index": 202,
+      "x_centroid": 1367.125,
+      "y_centroid": 436.125,
+      "visibility": 1
+    },
+    {
+      "frame_index": 203,
+      "x_centroid": 1367.125,
+      "y_centroid": 436.125,
+      "visibility": 1
+    },
+    {
+      "frame_index": 204,
+      "x_centroid": 1369.5625,
+      "y_centroid": 433.75,
+      "visibility": 1
+    },
+    {
+      "frame_index": 205,
+      "x_centroid": 1369.5882352941176,
+      "y_centroid": 433.5882352941176,
+      "visibility": 1
+    },
+    {
+      "frame_index": 206,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 207,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 208,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 209,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 210,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 211,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 212,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 213,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 214,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 215,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 216,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 217,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 218,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 219,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 220,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 221,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 222,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 223,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 224,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 225,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 226,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 227,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 228,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 229,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 230,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 231,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 232,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 233,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 234,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 235,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 236,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 237,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 238,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 239,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 240,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 241,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 242,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 243,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 244,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 245,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 246,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 247,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 248,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 249,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 250,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 251,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 252,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 253,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 254,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 255,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 256,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 257,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 258,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 259,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 260,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 261,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 262,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 263,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 264,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 265,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 266,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 267,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 268,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 269,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 270,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 271,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 272,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 273,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 274,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 275,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 276,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 277,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 278,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 279,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 280,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 281,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 282,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 283,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 284,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 285,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 286,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 287,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 288,
+      "x_centroid": 1365.8067226890757,
+      "y_centroid": 429.6806722689076,
+      "visibility": 1
+    },
+    {
+      "frame_index": 289,
+      "x_centroid": 1365.139534883721,
+      "y_centroid": 430.51937984496124,
+      "visibility": 1
+    },
+    {
+      "frame_index": 290,
+      "x_centroid": 850.1140939597316,
+      "y_centroid": 339.3020134228188,
+      "visibility": 1
+    },
+    {
+      "frame_index": 291,
+      "x_centroid": 850.031914893617,
+      "y_centroid": 339.0691489361702,
+      "visibility": 1
+    },
+    {
+      "frame_index": 292,
+      "x_centroid": 851.559405940594,
+      "y_centroid": 332.0495049504951,
+      "visibility": 1
+    },
+    {
+      "frame_index": 293,
+      "x_centroid": 851.5572139303482,
+      "y_centroid": 331.9950248756219,
+      "visibility": 1
+    },
+    {
+      "frame_index": 294,
+      "x_centroid": 856.3217821782179,
+      "y_centroid": 316.990099009901,
+      "visibility": 1
+    },
+    {
+      "frame_index": 295,
+      "x_centroid": 856.3737373737374,
+      "y_centroid": 316.9191919191919,
+      "visibility": 1
+    },
+    {
+      "frame_index": 296,
+      "x_centroid": 861.45197740113,
+      "y_centroid": 305.97740112994353,
+      "visibility": 1
+    },
+    {
+      "frame_index": 297,
+      "x_centroid": 861.367231638418,
+      "y_centroid": 306.0,
+      "visibility": 1
+    },
+    {
+      "frame_index": 298,
+      "x_centroid": 864.1283422459893,
+      "y_centroid": 301.36898395721926,
+      "visibility": 1
+    },
+    {
+      "frame_index": 299,
+      "x_centroid": 864.1720430107526,
+      "y_centroid": 301.36021505376345,
+      "visibility": 1
+    },
+    {
+      "frame_index": 300,
+      "x_centroid": 870.1079545454545,
+      "y_centroid": 294.58522727272725,
+      "visibility": 1
+    },
+    {
+      "frame_index": 301,
+      "x_centroid": 870.1910112359551,
+      "y_centroid": 294.6123595505618,
+      "visibility": 1
+    },
+    {
+      "frame_index": 302,
+      "x_centroid": 872.5829145728643,
+      "y_centroid": 291.9748743718593,
+      "visibility": 1
+    },
+    {
+      "frame_index": 303,
+      "x_centroid": 872.6192893401015,
+      "y_centroid": 291.83756345177665,
+      "visibility": 1
+    },
+    {
+      "frame_index": 304,
+      "x_centroid": 878.2352941176471,
+      "y_centroid": 290.06951871657753,
+      "visibility": 1
+    },
+    {
+      "frame_index": 305,
+      "x_centroid": 878.3948717948718,
+      "y_centroid": 290.0615384615385,
+      "visibility": 1
+    },
+    {
+      "frame_index": 306,
+      "x_centroid": 883.4820512820513,
+      "y_centroid": 289.46666666666664,
+      "visibility": 1
+    },
+    {
+      "frame_index": 307,
+      "x_centroid": 883.5685279187817,
+      "y_centroid": 289.46700507614213,
+      "visibility": 1
+    },
+    {
+      "frame_index": 308,
+      "x_centroid": 886.4,
+      "y_centroid": 290.67692307692306,
+      "visibility": 1
+    },
+    {
+      "frame_index": 309,
+      "x_centroid": 886.6326530612245,
+      "y_centroid": 290.6887755102041,
+      "visibility": 1
+    },
+    {
+      "frame_index": 310,
+      "x_centroid": 892.3053892215569,
+      "y_centroid": 293.5688622754491,
+      "visibility": 1
+    },
+    {
+      "frame_index": 311,
+      "x_centroid": 892.3869047619048,
+      "y_centroid": 293.57738095238096,
+      "visibility": 1
+    },
+    {
+      "frame_index": 312,
+      "x_centroid": 895.0202702702703,
+      "y_centroid": 297.77702702702703,
+      "visibility": 1
+    },
+    {
+      "frame_index": 313,
+      "x_centroid": 894.9215686274509,
+      "y_centroid": 297.8954248366013,
+      "visibility": 1
+    },
+    {
+      "frame_index": 314,
+      "x_centroid": 901.7303370786517,
+      "y_centroid": 295.91011235955057,
+      "visibility": 1
+    },
+    {
+      "frame_index": 315,
+      "x_centroid": 908.3811659192825,
+      "y_centroid": 294.7219730941704,
+      "visibility": 1
+    },
+    {
+      "frame_index": 316,
+      "x_centroid": 908.725,
+      "y_centroid": 302.94,
+      "visibility": 1
+    },
+    {
+      "frame_index": 317,
+      "x_centroid": 907.2945736434109,
+      "y_centroid": 300.86821705426354,
+      "visibility": 1
+    },
+    {
+      "frame_index": 318,
+      "x_centroid": 917.5357142857143,
+      "y_centroid": 325.32142857142856,
+      "visibility": 1
+    },
+    {
+      "frame_index": 319,
+      "x_centroid": 917.5866666666667,
+      "y_centroid": 325.58,
+      "visibility": 1
+    },
+    {
+      "frame_index": 320,
+      "x_centroid": 926.1197183098592,
+      "y_centroid": 341.2112676056338,
+      "visibility": 1
+    },
+    {
+      "frame_index": 321,
+      "x_centroid": 926.0694444444445,
+      "y_centroid": 341.11805555555554,
+      "visibility": 1
+    },
+    {
+      "frame_index": 322,
+      "x_centroid": 929.6486486486486,
+      "y_centroid": 349.2567567567568,
+      "visibility": 1
+    },
+    {
+      "frame_index": 323,
+      "x_centroid": 929.6912751677852,
+      "y_centroid": 349.28187919463085,
+      "visibility": 1
+    },
+    {
+      "frame_index": 324,
+      "x_centroid": 937.8125,
+      "y_centroid": 365.828125,
+      "visibility": 1
+    },
+    {
+      "frame_index": 325,
+      "x_centroid": 937.6821705426356,
+      "y_centroid": 365.8837209302326,
+      "visibility": 1
+    },
+    {
+      "frame_index": 326,
+      "x_centroid": 940.6692913385826,
+      "y_centroid": 373.79527559055117,
+      "visibility": 1
+    },
+    {
+      "frame_index": 327,
+      "x_centroid": 940.2615384615384,
+      "y_centroid": 373.7846153846154,
+      "visibility": 1
+    },
+    {
+      "frame_index": 328,
+      "x_centroid": 950.6544117647059,
+      "y_centroid": 394.4264705882353,
+      "visibility": 1
+    },
+    {
+      "frame_index": 329,
+      "x_centroid": 950.375,
+      "y_centroid": 394.56617647058823,
+      "visibility": 1
+    },
+    {
+      "frame_index": 330,
+      "x_centroid": 958.0676691729324,
+      "y_centroid": 414.5263157894737,
+      "visibility": 1
+    },
+    {
+      "frame_index": 331,
+      "x_centroid": 958.5804195804196,
+      "y_centroid": 414.5104895104895,
+      "visibility": 1
+    },
+    {
+      "frame_index": 332,
+      "x_centroid": 961.7178217821782,
+      "y_centroid": 424.41089108910893,
+      "visibility": 1
+    },
+    {
+      "frame_index": 333,
+      "x_centroid": 962.0144230769231,
+      "y_centroid": 425.15384615384613,
+      "visibility": 1
+    },
+    {
+      "frame_index": 334,
+      "x_centroid": 969.0,
+      "y_centroid": 398.176,
+      "visibility": 1
+    },
+    {
+      "frame_index": 335,
+      "x_centroid": 968.625,
+      "y_centroid": 398.04464285714283,
+      "visibility": 1
+    },
+    {
+      "frame_index": 336,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 337,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 338,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 339,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 340,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 341,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 342,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 343,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 344,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 345,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 346,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 347,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 348,
+      "x_centroid": 1048.638655462185,
+      "y_centroid": 302.47899159663865,
+      "visibility": 1
+    },
+    {
+      "frame_index": 349,
+      "x_centroid": 1048.9430894308944,
+      "y_centroid": 302.4146341463415,
+      "visibility": 1
+    },
+    {
+      "frame_index": 350,
+      "x_centroid": 1056.65625,
+      "y_centroid": 300.46875,
+      "visibility": 1
+    },
+    {
+      "frame_index": 351,
+      "x_centroid": 1056.65625,
+      "y_centroid": 300.46875,
+      "visibility": 1
+    },
+    {
+      "frame_index": 352,
+      "x_centroid": 1071.700680272109,
+      "y_centroid": 298.04761904761904,
+      "visibility": 1
+    },
+    {
+      "frame_index": 353,
+      "x_centroid": 1071.8206896551724,
+      "y_centroid": 297.88275862068963,
+      "visibility": 1
+    },
+    {
+      "frame_index": 354,
+      "x_centroid": 1087.4,
+      "y_centroid": 299.02222222222224,
+      "visibility": 1
+    },
+    {
+      "frame_index": 355,
+      "x_centroid": 1087.5703703703705,
+      "y_centroid": 298.97777777777776,
+      "visibility": 1
+    },
+    {
+      "frame_index": 356,
+      "x_centroid": 1094.7432432432433,
+      "y_centroid": 299.2905405405405,
+      "visibility": 1
+    },
+    {
+      "frame_index": 357,
+      "x_centroid": 1094.7414965986395,
+      "y_centroid": 299.3333333333333,
+      "visibility": 1
+    },
+    {
+      "frame_index": 358,
+      "x_centroid": 1110.344,
+      "y_centroid": 301.984,
+      "visibility": 1
+    },
+    {
+      "frame_index": 359,
+      "x_centroid": 1110.4765625,
+      "y_centroid": 301.9453125,
+      "visibility": 1
+    },
+    {
+      "frame_index": 360,
+      "x_centroid": 1117.056338028169,
+      "y_centroid": 303.4577464788732,
+      "visibility": 1
+    },
+    {
+      "frame_index": 361,
+      "x_centroid": 1117.1063829787233,
+      "y_centroid": 303.4609929078014,
+      "visibility": 1
+    },
+    {
+      "frame_index": 362,
+      "x_centroid": 1140.9492753623188,
+      "y_centroid": 314.3478260869565,
+      "visibility": 1
+    },
+    {
+      "frame_index": 363,
+      "x_centroid": 1140.9492753623188,
+      "y_centroid": 314.3478260869565,
+      "visibility": 1
+    },
+    {
+      "frame_index": 364,
+      "x_centroid": 1148.7697368421052,
+      "y_centroid": 318.5657894736842,
+      "visibility": 1
+    },
+    {
+      "frame_index": 365,
+      "x_centroid": 1148.7096774193549,
+      "y_centroid": 318.6,
+      "visibility": 1
+    },
+    {
+      "frame_index": 366,
+      "x_centroid": 1163.7457627118645,
+      "y_centroid": 329.72033898305085,
+      "visibility": 1
+    },
+    {
+      "frame_index": 367,
+      "x_centroid": 1163.8467741935483,
+      "y_centroid": 329.81451612903226,
+      "visibility": 1
+    },
+    {
+      "frame_index": 368,
+      "x_centroid": 1178.7379310344827,
+      "y_centroid": 343.17931034482757,
+      "visibility": 1
+    },
+    {
+      "frame_index": 369,
+      "x_centroid": 1178.8689655172413,
+      "y_centroid": 343.17241379310343,
+      "visibility": 1
+    },
+    {
+      "frame_index": 370,
+      "x_centroid": 1186.2773109243697,
+      "y_centroid": 350.8067226890756,
+      "visibility": 1
+    },
+    {
+      "frame_index": 371,
+      "x_centroid": 1186.3636363636363,
+      "y_centroid": 350.75206611570246,
+      "visibility": 1
+    },
+    {
+      "frame_index": 372,
+      "x_centroid": 1200.121739130435,
+      "y_centroid": 368.4869565217391,
+      "visibility": 1
+    },
+    {
+      "frame_index": 373,
+      "x_centroid": 1200.1052631578948,
+      "y_centroid": 368.53508771929825,
+      "visibility": 1
+    },
+    {
+      "frame_index": 374,
+      "x_centroid": 1206.7862068965517,
+      "y_centroid": 377.44827586206895,
+      "visibility": 1
+    },
+    {
+      "frame_index": 375,
+      "x_centroid": 1206.8108108108108,
+      "y_centroid": 377.5,
+      "visibility": 1
+    },
+    {
+      "frame_index": 376,
+      "x_centroid": 1222.7870967741935,
+      "y_centroid": 399.1225806451613,
+      "visibility": 1
+    },
+    {
+      "frame_index": 377,
+      "x_centroid": 1222.70625,
+      "y_centroid": 399.3875,
+      "visibility": 1
+    },
+    {
+      "frame_index": 378,
+      "x_centroid": 1234.8583333333333,
+      "y_centroid": 411.89166666666665,
+      "visibility": 1
+    },
+    {
+      "frame_index": 379,
+      "x_centroid": 1235.0169491525423,
+      "y_centroid": 411.90677966101697,
+      "visibility": 1
+    },
+    {
+      "frame_index": 380,
+      "x_centroid": 1238.8559322033898,
+      "y_centroid": 408.0762711864407,
+      "visibility": 1
+    },
+    {
+      "frame_index": 381,
+      "x_centroid": 1238.925,
+      "y_centroid": 408.0,
+      "visibility": 1
+    },
+    {
+      "frame_index": 382,
+      "x_centroid": 1245.5354330708662,
+      "y_centroid": 400.86614173228344,
+      "visibility": 1
+    },
+    {
+      "frame_index": 383,
+      "x_centroid": 1245.6129032258063,
+      "y_centroid": 400.76612903225805,
+      "visibility": 1
+    },
+    {
+      "frame_index": 384,
+      "x_centroid": 1250.9925373134329,
+      "y_centroid": 399.82089552238807,
+      "visibility": 1
+    },
+    {
+      "frame_index": 385,
+      "x_centroid": 1250.9925373134329,
+      "y_centroid": 399.82089552238807,
+      "visibility": 1
+    },
+    {
+      "frame_index": 386,
+      "x_centroid": 1257.5746268656717,
+      "y_centroid": 396.0074626865672,
+      "visibility": 1
+    },
+    {
+      "frame_index": 387,
+      "x_centroid": 1257.560606060606,
+      "y_centroid": 395.9318181818182,
+      "visibility": 1
+    },
+    {
+      "frame_index": 388,
+      "x_centroid": 1264.093023255814,
+      "y_centroid": 395.3488372093023,
+      "visibility": 1
+    },
+    {
+      "frame_index": 389,
+      "x_centroid": 1264.093023255814,
+      "y_centroid": 395.3488372093023,
+      "visibility": 1
+    },
+    {
+      "frame_index": 390,
+      "x_centroid": 1270.2479338842975,
+      "y_centroid": 396.7190082644628,
+      "visibility": 1
+    },
+    {
+      "frame_index": 391,
+      "x_centroid": 1270.3089430894308,
+      "y_centroid": 396.6422764227642,
+      "visibility": 1
+    },
+    {
+      "frame_index": 392,
+      "x_centroid": 1277.0220588235295,
+      "y_centroid": 400.8897058823529,
+      "visibility": 1
+    },
+    {
+      "frame_index": 393,
+      "x_centroid": 1277.0220588235295,
+      "y_centroid": 400.8897058823529,
+      "visibility": 1
+    },
+    {
+      "frame_index": 394,
+      "x_centroid": 1279.8958333333333,
+      "y_centroid": 403.8541666666667,
+      "visibility": 1
+    },
+    {
+      "frame_index": 395,
+      "x_centroid": 1279.8958333333333,
+      "y_centroid": 403.8541666666667,
+      "visibility": 1
+    },
+    {
+      "frame_index": 396,
+      "x_centroid": 1285.9928057553957,
+      "y_centroid": 411.0647482014389,
+      "visibility": 1
+    },
+    {
+      "frame_index": 397,
+      "x_centroid": 1286.3076923076924,
+      "y_centroid": 411.3076923076923,
+      "visibility": 1
+    },
+    {
+      "frame_index": 398,
+      "x_centroid": 1289.486301369863,
+      "y_centroid": 415.1506849315069,
+      "visibility": 1
+    },
+    {
+      "frame_index": 399,
+      "x_centroid": 1289.486301369863,
+      "y_centroid": 415.1506849315069,
+      "visibility": 1
+    },
+    {
+      "frame_index": 400,
+      "x_centroid": 1296.9404761904761,
+      "y_centroid": 418.5952380952381,
+      "visibility": 1
+    },
+    {
+      "frame_index": 401,
+      "x_centroid": 1296.8823529411766,
+      "y_centroid": 418.6235294117647,
+      "visibility": 1
+    },
+    {
+      "frame_index": 402,
+      "x_centroid": 1304.0892857142858,
+      "y_centroid": 418.05357142857144,
+      "visibility": 1
+    },
+    {
+      "frame_index": 403,
+      "x_centroid": 1304.1065088757396,
+      "y_centroid": 418.0887573964497,
+      "visibility": 1
+    },
+    {
+      "frame_index": 404,
+      "x_centroid": 1308.716129032258,
+      "y_centroid": 417.8322580645161,
+      "visibility": 1
+    },
+    {
+      "frame_index": 405,
+      "x_centroid": 1308.9470198675497,
+      "y_centroid": 417.9668874172185,
+      "visibility": 1
+    },
+    {
+      "frame_index": 406,
+      "x_centroid": 1314.909090909091,
+      "y_centroid": 420.7412587412587,
+      "visibility": 1
+    },
+    {
+      "frame_index": 407,
+      "x_centroid": 1314.985815602837,
+      "y_centroid": 420.7517730496454,
+      "visibility": 1
+    },
+    {
+      "frame_index": 408,
+      "x_centroid": 1318.7313432835822,
+      "y_centroid": 421.73880597014926,
+      "visibility": 1
+    },
+    {
+      "frame_index": 409,
+      "x_centroid": 1318.7313432835822,
+      "y_centroid": 421.73880597014926,
+      "visibility": 1
+    },
+    {
+      "frame_index": 410,
+      "x_centroid": 1325.7573529411766,
+      "y_centroid": 422.69117647058823,
+      "visibility": 1
+    },
+    {
+      "frame_index": 411,
+      "x_centroid": 1325.956204379562,
+      "y_centroid": 422.6715328467153,
+      "visibility": 1
+    },
+    {
+      "frame_index": 412,
+      "x_centroid": 1331.9652777777778,
+      "y_centroid": 423.2083333333333,
+      "visibility": 1
+    },
+    {
+      "frame_index": 413,
+      "x_centroid": 1332.0070422535211,
+      "y_centroid": 423.15492957746477,
+      "visibility": 1
+    },
+    {
+      "frame_index": 414,
+      "x_centroid": 1338.0079365079366,
+      "y_centroid": 425.25396825396825,
+      "visibility": 1
+    },
+    {
+      "frame_index": 415,
+      "x_centroid": 1337.9837398373984,
+      "y_centroid": 425.2926829268293,
+      "visibility": 1
+    },
+    {
+      "frame_index": 416,
+      "x_centroid": 1343.7083333333333,
+      "y_centroid": 425.15277777777777,
+      "visibility": 1
+    },
+    {
+      "frame_index": 417,
+      "x_centroid": 1343.7083333333333,
+      "y_centroid": 425.15277777777777,
+      "visibility": 1
+    },
+    {
+      "frame_index": 418,
+      "x_centroid": 1346.0757575757575,
+      "y_centroid": 425.1969696969697,
+      "visibility": 1
+    },
+    {
+      "frame_index": 419,
+      "x_centroid": 1346.1297709923665,
+      "y_centroid": 425.19083969465646,
+      "visibility": 1
+    },
+    {
+      "frame_index": 420,
+      "x_centroid": 1352.3798449612402,
+      "y_centroid": 426.04651162790697,
+      "visibility": 1
+    },
+    {
+      "frame_index": 421,
+      "x_centroid": 1352.4580152671756,
+      "y_centroid": 426.0687022900763,
+      "visibility": 1
+    },
+    {
+      "frame_index": 422,
+      "x_centroid": 1355.8188405797102,
+      "y_centroid": 425.5869565217391,
+      "visibility": 1
+    },
+    {
+      "frame_index": 423,
+      "x_centroid": 1355.8561151079136,
+      "y_centroid": 425.55395683453236,
+      "visibility": 1
+    },
+    {
+      "frame_index": 424,
+      "x_centroid": 1362.7435897435898,
+      "y_centroid": 427.20512820512823,
+      "visibility": 1
+    },
+    {
+      "frame_index": 425,
+      "x_centroid": 1362.8918918918919,
+      "y_centroid": 427.0900900900901,
+      "visibility": 1
+    },
+    {
+      "frame_index": 426,
+      "x_centroid": 1371.9251700680272,
+      "y_centroid": 426.63945578231295,
+      "visibility": 1
+    },
+    {
+      "frame_index": 427,
+      "x_centroid": 1372.054054054054,
+      "y_centroid": 426.68243243243245,
+      "visibility": 1
+    },
+    {
+      "frame_index": 428,
+      "x_centroid": 1372.013422818792,
+      "y_centroid": 426.66442953020135,
+      "visibility": 1
+    },
+    {
+      "frame_index": 429,
+      "x_centroid": 1376.296875,
+      "y_centroid": 427.75,
+      "visibility": 1
+    },
+    {
+      "frame_index": 430,
+      "x_centroid": 1382.673076923077,
+      "y_centroid": 425.36538461538464,
+      "visibility": 1
+    },
+    {
+      "frame_index": 431,
+      "x_centroid": 1383.0185185185185,
+      "y_centroid": 425.19444444444446,
+      "visibility": 1
+    },
+    {
+      "frame_index": 432,
+      "x_centroid": 1383.1545454545455,
+      "y_centroid": 425.1545454545454,
+      "visibility": 1
+    },
+    {
+      "frame_index": 433,
+      "x_centroid": 1385.1340206185566,
+      "y_centroid": 423.77319587628864,
+      "visibility": 1
+    },
+    {
+      "frame_index": 434,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 435,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 436,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 437,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 438,
+      "x_centroid": 1399.1025641025642,
+      "y_centroid": 427.7307692307692,
+      "visibility": 1
+    },
+    {
+      "frame_index": 439,
+      "x_centroid": 1399.5180722891566,
+      "y_centroid": 428.09638554216866,
+      "visibility": 1
+    },
+    {
+      "frame_index": 440,
+      "x_centroid": 1399.4767441860465,
+      "y_centroid": 428.25581395348837,
+      "visibility": 1
+    },
+    {
+      "frame_index": 441,
+      "x_centroid": 1401.1875,
+      "y_centroid": 429.28125,
+      "visibility": 1
+    },
+    {
+      "frame_index": 442,
+      "x_centroid": 1402.7307692307693,
+      "y_centroid": 429.99038461538464,
+      "visibility": 1
+    },
+    {
+      "frame_index": 443,
+      "x_centroid": 1402.861111111111,
+      "y_centroid": 430.1296296296296,
+      "visibility": 1
+    },
+    {
+      "frame_index": 444,
+      "x_centroid": 1402.834862385321,
+      "y_centroid": 430.1743119266055,
+      "visibility": 1
+    },
+    {
+      "frame_index": 445,
+      "x_centroid": 1409.0833333333333,
+      "y_centroid": 430.67424242424244,
+      "visibility": 1
+    },
+    {
+      "frame_index": 446,
+      "x_centroid": 1409.2424242424242,
+      "y_centroid": 430.6818181818182,
+      "visibility": 1
+    },
+    {
+      "frame_index": 447,
+      "x_centroid": 1411.8560606060605,
+      "y_centroid": 430.0530303030303,
+      "visibility": 1
+    },
+    {
+      "frame_index": 448,
+      "x_centroid": 1411.8560606060605,
+      "y_centroid": 430.0530303030303,
+      "visibility": 1
+    },
+    {
+      "frame_index": 449,
+      "x_centroid": 1418.2516556291391,
+      "y_centroid": 430.72185430463577,
+      "visibility": 1
+    },
+    {
+      "frame_index": 450,
+      "x_centroid": 1424.9444444444443,
+      "y_centroid": 431.75694444444446,
+      "visibility": 1
+    },
+    {
+      "frame_index": 451,
+      "x_centroid": 1425.2054794520548,
+      "y_centroid": 431.6849315068493,
+      "visibility": 1
+    },
+    {
+      "frame_index": 452,
+      "x_centroid": 1425.1614906832299,
+      "y_centroid": 431.9751552795031,
+      "visibility": 1
+    },
+    {
+      "frame_index": 453,
+      "x_centroid": 1427.294964028777,
+      "y_centroid": 431.66187050359713,
+      "visibility": 1
+    },
+    {
+      "frame_index": 454,
+      "x_centroid": 1432.063829787234,
+      "y_centroid": 431.48936170212767,
+      "visibility": 1
+    },
+    {
+      "frame_index": 455,
+      "x_centroid": 1432.163120567376,
+      "y_centroid": 431.4751773049645,
+      "visibility": 1
+    },
+    {
+      "frame_index": 456,
+      "x_centroid": 1434.5988023952095,
+      "y_centroid": 432.31736526946105,
+      "visibility": 1
+    },
+    {
+      "frame_index": 457,
+      "x_centroid": 1434.6526946107786,
+      "y_centroid": 432.25748502994014,
+      "visibility": 1
+    },
+    {
+      "frame_index": 458,
+      "x_centroid": 1436.9693251533743,
+      "y_centroid": 433.06134969325154,
+      "visibility": 1
+    },
+    {
+      "frame_index": 459,
+      "x_centroid": 1436.9878048780488,
+      "y_centroid": 433.0975609756098,
+      "visibility": 1
+    },
+    {
+      "frame_index": 460,
+      "x_centroid": 1437.0181818181818,
+      "y_centroid": 433.06666666666666,
+      "visibility": 1
+    },
+    {
+      "frame_index": 461,
+      "x_centroid": 1439.111111111111,
+      "y_centroid": 433.5098039215686,
+      "visibility": 1
+    },
+    {
+      "frame_index": 462,
+      "x_centroid": 1442.0817610062893,
+      "y_centroid": 434.2138364779874,
+      "visibility": 1
+    },
+    {
+      "frame_index": 463,
+      "x_centroid": 1442.0745341614906,
+      "y_centroid": 434.2111801242236,
+      "visibility": 1
+    },
+    {
+      "frame_index": 464,
+      "x_centroid": 1442.0745341614906,
+      "y_centroid": 434.2111801242236,
+      "visibility": 1
+    },
+    {
+      "frame_index": 465,
+      "x_centroid": 1446.6196319018404,
+      "y_centroid": 433.9447852760736,
+      "visibility": 1
+    },
+    {
+      "frame_index": 466,
+      "x_centroid": 1448.8427672955975,
+      "y_centroid": 435.1132075471698,
+      "visibility": 1
+    },
+    {
+      "frame_index": 467,
+      "x_centroid": 1448.8427672955975,
+      "y_centroid": 435.1132075471698,
+      "visibility": 1
+    },
+    {
+      "frame_index": 468,
+      "x_centroid": 1454.5569620253164,
+      "y_centroid": 435.34177215189874,
+      "visibility": 1
+    },
+    {
+      "frame_index": 469,
+      "x_centroid": 1455.1791044776119,
+      "y_centroid": 435.1940298507463,
+      "visibility": 1
+    },
+    {
+      "frame_index": 470,
+      "x_centroid": 1457.52,
+      "y_centroid": 436.84,
+      "visibility": 1
+    },
+    {
+      "frame_index": 471,
+      "x_centroid": 1457.9922480620155,
+      "y_centroid": 436.5736434108527,
+      "visibility": 1
+    },
+    {
+      "frame_index": 472,
+      "x_centroid": 1457.9922480620155,
+      "y_centroid": 436.5736434108527,
+      "visibility": 1
+    },
+    {
+      "frame_index": 473,
+      "x_centroid": 1461.45,
+      "y_centroid": 435.85625,
+      "visibility": 1
+    },
+    {
+      "frame_index": 474,
+      "x_centroid": 1463.6666666666667,
+      "y_centroid": 437.0,
+      "visibility": 1
+    },
+    {
+      "frame_index": 475,
+      "x_centroid": 1463.6866666666667,
+      "y_centroid": 437.06,
+      "visibility": 1
+    },
+    {
+      "frame_index": 476,
+      "x_centroid": 1463.609271523179,
+      "y_centroid": 436.4834437086093,
+      "visibility": 1
+    },
+    {
+      "frame_index": 477,
+      "x_centroid": 1463.609271523179,
+      "y_centroid": 436.4834437086093,
+      "visibility": 1
+    },
+    {
+      "frame_index": 478,
+      "x_centroid": 1464.496644295302,
+      "y_centroid": 436.7718120805369,
+      "visibility": 1
+    },
+    {
+      "frame_index": 479,
+      "x_centroid": 1464.48,
+      "y_centroid": 436.81333333333333,
+      "visibility": 1
+    },
+    {
+      "frame_index": 480,
+      "x_centroid": 1464.4834437086092,
+      "y_centroid": 436.8543046357616,
+      "visibility": 1
+    },
+    {
+      "frame_index": 481,
+      "x_centroid": 1464.4640522875818,
+      "y_centroid": 436.7647058823529,
+      "visibility": 1
+    },
+    {
+      "frame_index": 482,
+      "x_centroid": 1465.9235668789809,
+      "y_centroid": 436.56050955414014,
+      "visibility": 1
+    },
+    {
+      "frame_index": 483,
+      "x_centroid": 1466.0192307692307,
+      "y_centroid": 436.52564102564105,
+      "visibility": 1
+    },
+    {
+      "frame_index": 484,
+      "x_centroid": 1466.1656050955414,
+      "y_centroid": 436.5541401273885,
+      "visibility": 1
+    },
+    {
+      "frame_index": 485,
+      "x_centroid": 1467.941935483871,
+      "y_centroid": 438.51612903225805,
+      "visibility": 1
+    },
+    {
+      "frame_index": 486,
+      "x_centroid": 1472.371951219512,
+      "y_centroid": 438.9268292682927,
+      "visibility": 1
+    },
+    {
+      "frame_index": 487,
+      "x_centroid": 1472.33125,
+      "y_centroid": 438.80625,
+      "visibility": 1
+    },
+    {
+      "frame_index": 488,
+      "x_centroid": 1472.33125,
+      "y_centroid": 438.80625,
+      "visibility": 1
+    },
+    {
+      "frame_index": 489,
+      "x_centroid": 1477.625806451613,
+      "y_centroid": 438.18709677419355,
+      "visibility": 1
+    },
+    {
+      "frame_index": 490,
+      "x_centroid": 1478.5,
+      "y_centroid": 438.26973684210526,
+      "visibility": 1
+    },
+    {
+      "frame_index": 491,
+      "x_centroid": 1478.4444444444443,
+      "y_centroid": 438.3333333333333,
+      "visibility": 1
+    },
+    {
+      "frame_index": 492,
+      "x_centroid": 1478.3961038961038,
+      "y_centroid": 438.3246753246753,
+      "visibility": 1
+    },
+    {
+      "frame_index": 493,
+      "x_centroid": 1481.6013071895425,
+      "y_centroid": 437.15686274509807,
+      "visibility": 1
+    },
+    {
+      "frame_index": 494,
+      "x_centroid": 1482.1216216216217,
+      "y_centroid": 438.22297297297297,
+      "visibility": 1
+    },
+    {
+      "frame_index": 495,
+      "x_centroid": 1482.1632653061224,
+      "y_centroid": 438.19727891156464,
+      "visibility": 1
+    },
+    {
+      "frame_index": 496,
+      "x_centroid": 1482.0337837837837,
+      "y_centroid": 438.18243243243245,
+      "visibility": 1
+    },
+    {
+      "frame_index": 497,
+      "x_centroid": 1483.6891891891892,
+      "y_centroid": 437.7635135135135,
+      "visibility": 1
+    },
+    {
+      "frame_index": 498,
+      "x_centroid": 1483.9194630872482,
+      "y_centroid": 438.40939597315435,
+      "visibility": 1
+    },
+    {
+      "frame_index": 499,
+      "x_centroid": 1483.9066666666668,
+      "y_centroid": 438.3666666666667,
+      "visibility": 1
+    },
+    {
+      "frame_index": 500,
+      "x_centroid": 1483.8657718120805,
+      "y_centroid": 438.38926174496646,
+      "visibility": 1
+    },
+    {
+      "frame_index": 501,
+      "x_centroid": 1483.8881578947369,
+      "y_centroid": 438.5328947368421,
+      "visibility": 1
+    },
+    {
+      "frame_index": 502,
+      "x_centroid": 1483.751592356688,
+      "y_centroid": 438.4203821656051,
+      "visibility": 1
+    },
+    {
+      "frame_index": 503,
+      "x_centroid": 1483.751592356688,
+      "y_centroid": 438.4203821656051,
+      "visibility": 1
+    },
+    {
+      "frame_index": 504,
+      "x_centroid": 1483.751592356688,
+      "y_centroid": 438.4203821656051,
+      "visibility": 1
+    },
+    {
+      "frame_index": 505,
+      "x_centroid": 1484.3973509933776,
+      "y_centroid": 439.3112582781457,
+      "visibility": 1
+    },
+    {
+      "frame_index": 506,
+      "x_centroid": 1484.4133333333334,
+      "y_centroid": 439.35333333333335,
+      "visibility": 1
+    },
+    {
+      "frame_index": 507,
+      "x_centroid": 1485.8974358974358,
+      "y_centroid": 439.63461538461536,
+      "visibility": 1
+    },
+    {
+      "frame_index": 508,
+      "x_centroid": 1485.9285714285713,
+      "y_centroid": 439.55194805194805,
+      "visibility": 1
+    },
+    {
+      "frame_index": 509,
+      "x_centroid": 1487.3620689655172,
+      "y_centroid": 441.0287356321839,
+      "visibility": 1
+    },
+    {
+      "frame_index": 510,
+      "x_centroid": 1488.4411764705883,
+      "y_centroid": 440.0470588235294,
+      "visibility": 1
+    },
+    {
+      "frame_index": 511,
+      "x_centroid": 1488.4583333333333,
+      "y_centroid": 440.0952380952381,
+      "visibility": 1
+    },
+    {
+      "frame_index": 512,
+      "x_centroid": 1488.3690476190477,
+      "y_centroid": 440.0595238095238,
+      "visibility": 1
+    },
+    {
+      "frame_index": 513,
+      "x_centroid": 1489.2532467532467,
+      "y_centroid": 440.6818181818182,
+      "visibility": 1
+    },
+    {
+      "frame_index": 514,
+      "x_centroid": 1489.3006535947713,
+      "y_centroid": 440.6862745098039,
+      "visibility": 1
+    },
+    {
+      "frame_index": 515,
+      "x_centroid": 1490.1960784313726,
+      "y_centroid": 440.66013071895424,
+      "visibility": 1
+    },
+    {
+      "frame_index": 516,
+      "x_centroid": 1490.1960784313726,
+      "y_centroid": 440.66013071895424,
+      "visibility": 1
+    },
+    {
+      "frame_index": 517,
+      "x_centroid": 1489.5298013245033,
+      "y_centroid": 439.887417218543,
+      "visibility": 1
+    },
+    {
+      "frame_index": 518,
+      "x_centroid": 1489.5,
+      "y_centroid": 439.92105263157896,
+      "visibility": 1
+    },
+    {
+      "frame_index": 519,
+      "x_centroid": 1488.7066666666667,
+      "y_centroid": 440.75333333333333,
+      "visibility": 1
+    },
+    {
+      "frame_index": 520,
+      "x_centroid": 1488.7066666666667,
+      "y_centroid": 440.75333333333333,
+      "visibility": 1
+    },
+    {
+      "frame_index": 521,
+      "x_centroid": 1487.3454545454545,
+      "y_centroid": 440.8545454545455,
+      "visibility": 1
+    },
+    {
+      "frame_index": 522,
+      "x_centroid": 1487.418181818182,
+      "y_centroid": 440.9030303030303,
+      "visibility": 1
+    },
+    {
+      "frame_index": 523,
+      "x_centroid": 1486.3272727272727,
+      "y_centroid": 440.9939393939394,
+      "visibility": 1
+    },
+    {
+      "frame_index": 524,
+      "x_centroid": 1486.367469879518,
+      "y_centroid": 441.01807228915663,
+      "visibility": 1
+    },
+    {
+      "frame_index": 525,
+      "x_centroid": 1485.6025641025642,
+      "y_centroid": 440.78205128205127,
+      "visibility": 1
+    },
+    {
+      "frame_index": 526,
+      "x_centroid": 1485.4716981132076,
+      "y_centroid": 440.76100628930817,
+      "visibility": 1
+    },
+    {
+      "frame_index": 527,
+      "x_centroid": 1485.01875,
+      "y_centroid": 442.24375,
+      "visibility": 1
+    },
+    {
+      "frame_index": 528,
+      "x_centroid": 1485.01875,
+      "y_centroid": 442.24375,
+      "visibility": 1
+    },
+    {
+      "frame_index": 529,
+      "x_centroid": 1485.3529411764705,
+      "y_centroid": 440.0065359477124,
+      "visibility": 1
+    },
+    {
+      "frame_index": 530,
+      "x_centroid": 1485.3708609271523,
+      "y_centroid": 439.92715231788077,
+      "visibility": 1
+    },
+    {
+      "frame_index": 531,
+      "x_centroid": 1486.058064516129,
+      "y_centroid": 441.73548387096776,
+      "visibility": 1
+    },
+    {
+      "frame_index": 532,
+      "x_centroid": 1486.0566037735848,
+      "y_centroid": 441.7987421383648,
+      "visibility": 1
+    },
+    {
+      "frame_index": 533,
+      "x_centroid": 1486.5,
+      "y_centroid": 439.7012987012987,
+      "visibility": 1
+    },
+    {
+      "frame_index": 534,
+      "x_centroid": 1486.5,
+      "y_centroid": 439.7012987012987,
+      "visibility": 1
+    },
+    {
+      "frame_index": 535,
+      "x_centroid": 1488.124183006536,
+      "y_centroid": 440.8169934640523,
+      "visibility": 1
+    },
+    {
+      "frame_index": 536,
+      "x_centroid": 1488.1644736842106,
+      "y_centroid": 440.7894736842105,
+      "visibility": 1
+    },
+    {
+      "frame_index": 537,
+      "x_centroid": 1487.4444444444443,
+      "y_centroid": 439.80864197530866,
+      "visibility": 1
+    },
+    {
+      "frame_index": 538,
+      "x_centroid": 1487.4662576687117,
+      "y_centroid": 439.7730061349693,
+      "visibility": 1
+    },
+    {
+      "frame_index": 539,
+      "x_centroid": 1487.59375,
+      "y_centroid": 440.3625,
+      "visibility": 1
+    },
+    {
+      "frame_index": 540,
+      "x_centroid": 1487.6358024691358,
+      "y_centroid": 440.31481481481484,
+      "visibility": 1
+    },
+    {
+      "frame_index": 541,
+      "x_centroid": 1486.1132075471698,
+      "y_centroid": 439.58490566037733,
+      "visibility": 1
+    },
+    {
+      "frame_index": 542,
+      "x_centroid": 1486.1132075471698,
+      "y_centroid": 439.58490566037733,
+      "visibility": 1
+    },
+    {
+      "frame_index": 543,
+      "x_centroid": 1485.987341772152,
+      "y_centroid": 440.60759493670884,
+      "visibility": 1
+    },
+    {
+      "frame_index": 544,
+      "x_centroid": 1485.987341772152,
+      "y_centroid": 440.60759493670884,
+      "visibility": 1
+    },
+    {
+      "frame_index": 545,
+      "x_centroid": 1485.66875,
+      "y_centroid": 440.30625,
+      "visibility": 1
+    },
+    {
+      "frame_index": 546,
+      "x_centroid": 1485.66875,
+      "y_centroid": 440.30625,
+      "visibility": 1
+    },
+    {
+      "frame_index": 547,
+      "x_centroid": 1485.6433121019109,
+      "y_centroid": 439.70063694267515,
+      "visibility": 1
+    },
+    {
+      "frame_index": 548,
+      "x_centroid": 1485.472049689441,
+      "y_centroid": 439.83850931677017,
+      "visibility": 1
+    },
+    {
+      "frame_index": 549,
+      "x_centroid": 1486.3902439024391,
+      "y_centroid": 440.4634146341463,
+      "visibility": 1
+    },
+    {
+      "frame_index": 550,
+      "x_centroid": 1486.3416149068323,
+      "y_centroid": 440.3975155279503,
+      "visibility": 1
+    },
+    {
+      "frame_index": 551,
+      "x_centroid": 1486.6303030303031,
+      "y_centroid": 441.04242424242426,
+      "visibility": 1
+    },
+    {
+      "frame_index": 552,
+      "x_centroid": 1486.6626506024097,
+      "y_centroid": 441.0722891566265,
+      "visibility": 1
+    },
+    {
+      "frame_index": 553,
+      "x_centroid": 1486.9096385542168,
+      "y_centroid": 441.01807228915663,
+      "visibility": 1
+    },
+    {
+      "frame_index": 554,
+      "x_centroid": 1486.9520958083833,
+      "y_centroid": 441.03592814371257,
+      "visibility": 1
+    },
+    {
+      "frame_index": 555,
+      "x_centroid": 1487.6746987951808,
+      "y_centroid": 442.16265060240966,
+      "visibility": 1
+    },
+    {
+      "frame_index": 556,
+      "x_centroid": 1487.6946107784431,
+      "y_centroid": 442.1976047904192,
+      "visibility": 1
+    },
+    {
+      "frame_index": 557,
+      "x_centroid": 1487.670807453416,
+      "y_centroid": 440.96894409937886,
+      "visibility": 1
+    },
+    {
+      "frame_index": 558,
+      "x_centroid": 1487.6543209876543,
+      "y_centroid": 441.0061728395062,
+      "visibility": 1
+    },
+    {
+      "frame_index": 559,
+      "x_centroid": 1486.9520958083833,
+      "y_centroid": 441.03592814371257,
+      "visibility": 1
+    },
+    {
+      "frame_index": 560,
+      "x_centroid": 1486.9520958083833,
+      "y_centroid": 441.03592814371257,
+      "visibility": 1
+    },
+    {
+      "frame_index": 561,
+      "x_centroid": 1486.5731707317073,
+      "y_centroid": 441.0670731707317,
+      "visibility": 1
+    },
+    {
+      "frame_index": 562,
+      "x_centroid": 1486.539393939394,
+      "y_centroid": 441.0969696969697,
+      "visibility": 1
+    },
+    {
+      "frame_index": 563,
+      "x_centroid": 1485.93125,
+      "y_centroid": 439.95,
+      "visibility": 1
+    },
+    {
+      "frame_index": 564,
+      "x_centroid": 1486.0181818181818,
+      "y_centroid": 440.9818181818182,
+      "visibility": 1
+    },
+    {
+      "frame_index": 565,
+      "x_centroid": 1486.2462686567164,
+      "y_centroid": 440.94776119402985,
+      "visibility": 1
+    }
+  ]
+}

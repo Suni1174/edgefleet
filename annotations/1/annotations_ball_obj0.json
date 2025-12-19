@@ -1,0 +1,193 @@
+{
+  "object_id": 0,
+  "prompt": "ball",
+  "total_frames": 31,
+  "annotations": [
+    {
+      "frame_index": 0,
+      "x_centroid": 599.2409638554217,
+      "y_centroid": 137.92004381161007,
+      "visibility": 1
+    },
+    {
+      "frame_index": 1,
+      "x_centroid": 611.1261261261261,
+      "y_centroid": 107.29729729729729,
+      "visibility": 1
+    },
+    {
+      "frame_index": 2,
+      "x_centroid": 624.9352818371608,
+      "y_centroid": 88.8643006263048,
+      "visibility": 1
+    },
+    {
+      "frame_index": 3,
+      "x_centroid": 637.5061124694377,
+      "y_centroid": 75.09046454767726,
+      "visibility": 1
+    },
+    {
+      "frame_index": 4,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 5,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 6,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 7,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 8,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 9,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 10,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 11,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 12,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 13,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 14,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 15,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 16,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 17,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 18,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 19,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 20,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 21,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 22,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 23,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 24,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 25,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 26,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 27,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 28,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 29,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    },
+    {
+      "frame_index": 30,
+      "x_centroid": null,
+      "y_centroid": null,
+      "visibility": 0
+    }
+  ]
+}

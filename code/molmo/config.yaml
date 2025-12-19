@@ -1,0 +1,37 @@
+### INPUTS
+valid_ann_file: "/home/suneetha/workspace/tmp/place/data/edgefleet/data/valid.json"
+filtered_val_ann_file: "/home/suneetha/workspace/tmp/place/data/edgefleet/data/valid.json"
+test_ann_file: "/home/suneetha/workspace/tmp/place/data/edgefleet/data/vsann_test_lb.json"
+train_ann_file: "/home/suneetha/workspace/tmp/place/data/edgefleet/data/train.json"
+base_frame_dir: "/home/suneetha/workspace/tmp/place/data/edgefleet/data/vsitu_11_frames_per_vid/"
+base_mp4_folder: /home/suneetha/workspace/tmp/place/data/edgefleet/data/cropped
+base_shot_folder: /home/suneetha/workspace/tmp/place/data/edgefleet/data/shot_changes
+input_vid_file: /home/suneetha/workspace/tmp/place/data/edgefleet/data/input_videos.txt
+key_for_getting_unique_args: "unique_args_for_grounding_in_vidsitu_order" # null or "unique_args_for_grounding_in_vidsitu_order"
+
+### OUTPUTS
+base_tmp_dir: /home/suneetha/workspace/tmp/place/tmp/molmo
+finished_file: /home/suneetha/workspace/tmp/place/tmp/molmo/finished_videos_{model_name}.json
+output_folder_for_viz: "/home/suneetha/workspace/tmp/place/tmp/molmo/tmp/viz/"
+output_file: /home/suneetha/workspace/tmp/place/tmp/molmo/all_video_molmo_preds_vidsitu_01_12_25_{model_name}.json
+
+### MODEL SETTINGS
+model_name: molmo # "ape" or "molmo"
+molmo_model_name: "allenai/Molmo-7B-D-0924"
+data_type: "bfloat16"
+
+### PARAMETERS
+do_visualization: true
+follow_input_vid_list: true
+box_threshold: 0.05
+device: "cuda:0"
+save_memory: false
+video_range: [0, 1]
+save_interval: 0
+box_threshold_for_vis: 0.2
+merge_box_score_threshold: 0.05
+grounding_mode: "uniform_sampling" # "shot" or "uniform_sampling"
+
+### UNIFORM SAMPLING PARAMETERS (used when grounding_mode is "uniform_sampling")
+num_sample_frames: 5  # Number of frames to uniformly sample from the video
+total_video_frames: null  # Total frames in video (auto-detected if null)

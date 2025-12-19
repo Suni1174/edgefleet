@@ -1,0 +1,181 @@
+# SAM3 Video Processing Configuration
+
+# Processing mode: "single" or "batch"
+# - single: Process one video with one or multiple prompts
+# - batch: Process multiple videos from JSON annotations
+mode: "batch"
+text_prompt_setting: "one_object_per_prompt"  # Options: "one_object_per_prompt", "multiple_objects_per_prompt"
+# Single video mode configuration
+single_mode:
+  video_path: "/home/suneetha/workspace/vlm_vidsitu/data_creation/sam3/assets/videos/bedroom.mp4"
+  prompts:
+    - "person"
+    - "bed"
+  # Number of frames to sample uniformly for adding prompts (default: 10)
+  num_sample_frames: 10
+
+# Batch processing mode configuration
+batch_mode:
+  # Base directory containing MP4 video files
+  base_mp4_folder: "/home/suneetha/workspace/tmp/place/data/edgefleet/data/cropped"
+  
+  # Path to JSON file containing video annotations
+  annotations_json: "/home/suneetha/workspace/tmp/place/data/edgefleet/data/valid.json"
+  
+  # Number of frames to sample uniformly for adding prompts per video
+  num_sample_frames: 5
+  
+  # Maximum number of videos to process (for testing, set to null for all)
+  max_videos: 15
+  
+  # Video selection options (choose one):
+  # Option 1: Select specific indices (0-based) from the JSON keys
+  selected_indices: null  # Process videos at indices 0, 2, and 5
+  
+  # Option 2: Select a range of indices (start, end) - end is exclusive
+  # selected_range: [0, 10]  # Process videos from index 0 to 9
+  
+  # Option 3: Select specific video IDs by name
+  # selected_video_ids: ["v_VYQoxBs5N2A_seg_120_130", "v_4w36z7XnwOM_seg_80_90"]
+  
+  selected_range: null
+  selected_video_ids: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14"]
+    # - "v_VtEOGd7tD9o_seg_45_55"
+    # - "v_85A2rWA5O3o_seg_20_30"
+    # - "v_4Qrs43i_S50_seg_55_65"
+    # - "v_Q0i1ldFm-oI_seg_95_105"
+    # - "v_5paBdZiLhqQ_seg_15_25"
+    # - "v_W8AmENQ7_ik_seg_30_40"
+    # - "v_pcqaeLRop58_seg_30_40"
+    # - "v_3MK7O6w2Mz8_seg_65_75"
+    # - "v_u1Dxy8jBmYE_seg_70_80"
+    # - "v_qItvl5cX4-A_seg_20_30"
+    # - "v_CwdGYMM2bHM_seg_45_55"
+    # - "v_1YrG1iLwEWk_seg_5_15"
+
+  
+  # Skip videos that don't have unique_args_for_grounding_in_vidsitu_order
+  skip_videos_without_args: true
+
+# GPU configuration
+gpu:
+  # GPU IDs to use (list of integers), null for auto-detection
+  device_ids: [0]
+  # Whether to use all available GPUs
+  use_all_gpus: false
+
+# Output configuration
+output:
+  # Base output directory
+  base_dir: "/home/suneetha/workspace/tmp/place/tmp/submission"
+  
+  # Save individual frame visualizations
+  save_frame_vis: false
+  
+  # Save propagated outputs visualizations
+  save_propagated_vis: false
+  
+  # Save raw outputs (npz/pkl files) and per-frame annotations
+  save_raw_outputs: true
+  
+  # Create subdirectories per video in batch mode
+  create_video_subdirs: true
+
+  # sample input prompt frames for propagation visualization
+  sample_input_prompt_frames_for_vis: true
+
+  # Video track visualization options
+  save_track_video: true
+  
+# Visualization settings
+visualization:
+  # Figure size for plots
+  figsize: [8, 6]
+  
+  # DPI for saved images
+  dpi: 150
+  
+  # Save format
+  format: "png"
+
+# Shot-level processing configuration
+shot_processing:
+  # Enable or disable shot-level processing
+  enabled: false
+  
+  # For batch mode: base directory containing .videvetns files
+  video_events_base_dir: "/workspace/suneetha/gvidsitu/data/shot_changes/"  # e.g., "/path/to/events/directory"
+  
+  # Temporary directory for shot video clips (if needed by SAM3)
+  temp_dir: "/tmp/sam3_shot_clips"
+  
+  # Whether to create temporary video files for each shot
+  create_temp_videos: true
+  
+  # Cleanup temporary files after processing
+  cleanup_temp_files: false
+
+# Video track visualization settings
+video_tracks:
+  # Whether to create track visualization videos
+  enabled: true
+  
+  # Video output format (mp4, avi)
+  output_format: "mp4"
+  
+  # Frame rate for output video (null to use original video FPS)
+  fps: null
+  
+  # Video quality (higher is better, 0-51 for libx264)
+  crf: 23
+  
+  # Track visualization options
+  show_masks: true          # Show segmentation masks
+  show_object_ids: true     # Show object ID labels
+  show_bboxes: true         # Show bounding boxes
+  
+  # Color settings
+  mask_alpha: 0.6           # Transparency of masks (0-1)
+  bbox_thickness: 2         # Thickness of bounding box lines
+  text_size: 0.5            # Size of text labels
+  trail_thickness: 3        # Thickness of trail lines
+
+# Logging configuration
+logging:
+  # Log level: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  level: "INFO"
+  
+  # Whether to save logs to file
+  save_to_file: true
+  
+  # Log file path (relative to output directory)
+  log_file: "processing.log"
+
+# Points refinement configuration
+points_refinement:
+  # Enable or disable points refinement using Molmo predictions
+  enabled: true
+  
+  # Path to Molmo predictions JSON file with structure: 
+  # {video_id: {molmo: {prompt: {Points: [[x,y], ...], Frames: [frame_idx, ...]}}}}
+  molmo_predictions_json: "/home/suneetha/workspace/tmp/place/tmp/molmo/all_video_molmo_preds_vidsitu_01_12_25_molmo.json"
+  
+  # Refinement settings
+  use_positive_points_only: true  # Use points as positive clicks (label=1)
+  normalize_coordinates: true     # Normalize points to relative coordinates (0-1 range)
+  clear_old_points: true         # Clear previous points before adding new ones
+  
+  # Frame selection for refinement
+  refine_on_detected_frames_only: true  # Only refine on frames where Molmo detected points
+  max_points_per_prompt: 10      # Maximum number of points to use per prompt (use all if null)
+
+# Error handling
+error_handling:
+  # Continue processing other videos if one fails
+  continue_on_error: true
+  
+  # Maximum number of retries for failed operations
+  max_retries: 3
+  
+  # Skip corrupted videos
+  skip_corrupted_videos: true

@@ -1,0 +1,2707 @@
+{
+  "total_frames": 254,
+  "total_objects": 1,
+  "prompt_to_global_ids": {
+    "ball": [
+      0
+    ]
+  },
+  "annotations": [
+    {
+      "frame_index": 0,
+      "objects": []
+    },
+    {
+      "frame_index": 1,
+      "objects": []
+    },
+    {
+      "frame_index": 2,
+      "objects": []
+    },
+    {
+      "frame_index": 3,
+      "objects": []
+    },
+    {
+      "frame_index": 4,
+      "objects": []
+    },
+    {
+      "frame_index": 5,
+      "objects": []
+    },
+    {
+      "frame_index": 6,
+      "objects": []
+    },
+    {
+      "frame_index": 7,
+      "objects": []
+    },
+    {
+      "frame_index": 8,
+      "objects": []
+    },
+    {
+      "frame_index": 9,
+      "objects": []
+    },
+    {
+      "frame_index": 10,
+      "objects": []
+    },
+    {
+      "frame_index": 11,
+      "objects": []
+    },
+    {
+      "frame_index": 12,
+      "objects": []
+    },
+    {
+      "frame_index": 13,
+      "objects": []
+    },
+    {
+      "frame_index": 14,
+      "objects": []
+    },
+    {
+      "frame_index": 15,
+      "objects": []
+    },
+    {
+      "frame_index": 16,
+      "objects": []
+    },
+    {
+      "frame_index": 17,
+      "objects": []
+    },
+    {
+      "frame_index": 18,
+      "objects": []
+    },
+    {
+      "frame_index": 19,
+      "objects": []
+    },
+    {
+      "frame_index": 20,
+      "objects": []
+    },
+    {
+      "frame_index": 21,
+      "objects": []
+    },
+    {
+      "frame_index": 22,
+      "objects": []
+    },
+    {
+      "frame_index": 23,
+      "objects": []
+    },
+    {
+      "frame_index": 24,
+      "objects": []
+    },
+    {
+      "frame_index": 25,
+      "objects": []
+    },
+    {
+      "frame_index": 26,
+      "objects": []
+    },
+    {
+      "frame_index": 27,
+      "objects": []
+    },
+    {
+      "frame_index": 28,
+      "objects": []
+    },
+    {
+      "frame_index": 29,
+      "objects": []
+    },
+    {
+      "frame_index": 30,
+      "objects": []
+    },
+    {
+      "frame_index": 31,
+      "objects": []
+    },
+    {
+      "frame_index": 32,
+      "objects": []
+    },
+    {
+      "frame_index": 33,
+      "objects": []
+    },
+    {
+      "frame_index": 34,
+      "objects": []
+    },
+    {
+      "frame_index": 35,
+      "objects": []
+    },
+    {
+      "frame_index": 36,
+      "objects": []
+    },
+    {
+      "frame_index": 37,
+      "objects": []
+    },
+    {
+      "frame_index": 38,
+      "objects": []
+    },
+    {
+      "frame_index": 39,
+      "objects": []
+    },
+    {
+      "frame_index": 40,
+      "objects": []
+    },
+    {
+      "frame_index": 41,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 750.6795580110497,
+          "y_centroid": 425.1975138121547,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 42,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 758.2487046632124,
+          "y_centroid": 437.65284974093265,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 43,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 758.9716981132076,
+          "y_centroid": 438.16037735849056,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 44,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 760.1981132075472,
+          "y_centroid": 412.0188679245283,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 45,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 759.0785714285714,
+          "y_centroid": 413.64285714285717,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 46,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 756.3008849557522,
+          "y_centroid": 412.283185840708,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 47,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 756.8139534883721,
+          "y_centroid": 412.42790697674417,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 48,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 756.4220183486239,
+          "y_centroid": 412.38990825688074,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 49,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 745.3095238095239,
+          "y_centroid": 415.0357142857143,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 50,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 733.6388888888889,
+          "y_centroid": 411.1574074074074,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 51,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 757.4771428571429,
+          "y_centroid": 433.3857142857143,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 52,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 757.4046920821114,
+          "y_centroid": 433.54545454545456,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 53,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 757.1146131805158,
+          "y_centroid": 433.9627507163324,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 54,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 773.7253333333333,
+          "y_centroid": 488.76,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 55,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 773.5703125,
+          "y_centroid": 489.0729166666667,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 56,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 773.5725593667546,
+          "y_centroid": 489.02374670184696,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 57,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 772.43125,
+          "y_centroid": 566.7875,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 58,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 772.4061538461539,
+          "y_centroid": 566.8984615384616,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 59,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 781.8095238095239,
+          "y_centroid": 648.8744588744589,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 60,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 782.068493150685,
+          "y_centroid": 649.0502283105022,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 61,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 776.831081081081,
+          "y_centroid": 691.831081081081,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 62,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 776.6045751633987,
+          "y_centroid": 692.1830065359477,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 63,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 776.5261437908497,
+          "y_centroid": 692.3300653594771,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 64,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 752.8125,
+          "y_centroid": 653.5598958333334,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 65,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 741.589641434263,
+          "y_centroid": 559.9382470119522,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 66,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 741.4016563146998,
+          "y_centroid": 560.703933747412,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 67,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 741.2845188284518,
+          "y_centroid": 560.6401673640167,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 68,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 752.2367346938776,
+          "y_centroid": 443.66530612244895,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 69,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 752.6391304347826,
+          "y_centroid": 443.454347826087,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 70,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 784.0,
+          "y_centroid": 336.0,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 71,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 783.7913907284768,
+          "y_centroid": 336.2549668874172,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 72,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 783.3603896103896,
+          "y_centroid": 336.3636363636364,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 73,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 802.6646153846153,
+          "y_centroid": 282.3969230769231,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 74,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 802.601226993865,
+          "y_centroid": 282.53067484662574,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 75,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 813.6756756756756,
+          "y_centroid": 249.1891891891892,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 76,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 813.7135135135135,
+          "y_centroid": 249.28108108108108,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 77,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 813.6186666666666,
+          "y_centroid": 249.32,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 78,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 822.9439252336449,
+          "y_centroid": 219.85669781931463,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 79,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 822.9754601226994,
+          "y_centroid": 219.8926380368098,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 80,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 831.4712990936556,
+          "y_centroid": 196.77945619335347,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 81,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 831.5090361445783,
+          "y_centroid": 196.83132530120483,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 82,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 831.6832298136646,
+          "y_centroid": 196.6832298136646,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 83,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 840.6016713091922,
+          "y_centroid": 180.30362116991643,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 84,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 840.6101694915254,
+          "y_centroid": 180.24858757062148,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 85,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 849.0524475524476,
+          "y_centroid": 164.47552447552448,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 86,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 848.923875432526,
+          "y_centroid": 164.4809688581315,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 87,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 849.0209059233449,
+          "y_centroid": 164.40766550522648,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 88,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 856.4354354354355,
+          "y_centroid": 156.13213213213214,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 89,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 863.9268292682926,
+          "y_centroid": 151.9268292682927,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 90,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 863.9712041884817,
+          "y_centroid": 151.96858638743456,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 91,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 864.1273209549072,
+          "y_centroid": 152.0477453580902,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 92,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 871.4604966139955,
+          "y_centroid": 151.27765237020316,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 93,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 871.6174496644295,
+          "y_centroid": 151.34675615212527,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 94,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 876.178313253012,
+          "y_centroid": 153.710843373494,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 95,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 876.2129186602871,
+          "y_centroid": 153.72966507177034,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 96,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 876.2969121140143,
+          "y_centroid": 153.87410926365797,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 97,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 881.9888268156425,
+          "y_centroid": 158.9385474860335,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 98,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 882.1457142857142,
+          "y_centroid": 159.09142857142857,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 99,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 886.682808716707,
+          "y_centroid": 168.57869249394673,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 100,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 886.7524038461538,
+          "y_centroid": 168.82692307692307,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 101,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 886.3525641025641,
+          "y_centroid": 169.63888888888889,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 102,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 891.7677053824362,
+          "y_centroid": 181.23512747875355,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 103,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 891.8338108882522,
+          "y_centroid": 181.28080229226362,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 104,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 896.2242990654206,
+          "y_centroid": 197.71028037383178,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 105,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 896.0157728706624,
+          "y_centroid": 197.8769716088328,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 106,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 895.8553459119497,
+          "y_centroid": 197.90880503144655,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 107,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 901.0268199233717,
+          "y_centroid": 213.45977011494253,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 108,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 900.8571428571429,
+          "y_centroid": 214.65201465201466,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 109,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 902.039603960396,
+          "y_centroid": 235.55693069306932,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 110,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 903.4930966469428,
+          "y_centroid": 237.6844181459566,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 111,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 903.7219047619047,
+          "y_centroid": 238.15047619047618,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 112,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 903.8972431077694,
+          "y_centroid": 263.29573934837094,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 113,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 909.776119402985,
+          "y_centroid": 286.06716417910445,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 114,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 908.9,
+          "y_centroid": 286.64666666666665,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 115,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 910.3546511627907,
+          "y_centroid": 286.34302325581393,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 116,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 916.0222222222222,
+          "y_centroid": 309.1777777777778,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 117,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 919.7777777777778,
+          "y_centroid": 303.6587301587302,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 118,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 912.7169117647059,
+          "y_centroid": 353.2352941176471,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 119,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 912.4794520547945,
+          "y_centroid": 353.3732876712329,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 120,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 912.2927631578947,
+          "y_centroid": 353.5296052631579,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 121,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 916.1201716738198,
+          "y_centroid": 382.22317596566523,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 122,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 916.1769911504425,
+          "y_centroid": 383.3893805309734,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 123,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 917.9543147208121,
+          "y_centroid": 419.93401015228426,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 124,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 918.2708333333334,
+          "y_centroid": 420.5260416666667,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 125,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 917.3728813559322,
+          "y_centroid": 420.77966101694915,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 126,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 919.3128834355829,
+          "y_centroid": 418.3803680981595,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 127,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 918.9803921568628,
+          "y_centroid": 418.6470588235294,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 128,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 905.9968152866242,
+          "y_centroid": 388.04777070063693,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 129,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 905.5704918032787,
+          "y_centroid": 388.04590163934427,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 130,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 905.4918032786885,
+          "y_centroid": 388.12459016393444,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 131,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 891.8060836501901,
+          "y_centroid": 358.1406844106464,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 132,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 891.7262357414448,
+          "y_centroid": 358.2851711026616,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 133,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 877.258064516129,
+          "y_centroid": 335.491935483871,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 134,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 877.1446280991736,
+          "y_centroid": 335.3057851239669,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 135,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 877.1115702479339,
+          "y_centroid": 335.3057851239669,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 136,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 896.3846153846154,
+          "y_centroid": 334.9230769230769,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 137,
+      "objects": []
+    },
+    {
+      "frame_index": 138,
+      "objects": []
+    },
+    {
+      "frame_index": 139,
+      "objects": []
+    },
+    {
+      "frame_index": 140,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 838.4730538922156,
+          "y_centroid": 284.70059880239523,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 141,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 837.709090909091,
+          "y_centroid": 284.77575757575755,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 142,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 824.139896373057,
+          "y_centroid": 274.31088082901556,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 143,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 824.0816326530612,
+          "y_centroid": 274.3826530612245,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 144,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 824.123076923077,
+          "y_centroid": 274.374358974359,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 145,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 811.6428571428571,
+          "y_centroid": 267.84615384615387,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 146,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 811.6086956521739,
+          "y_centroid": 267.83152173913044,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 147,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 799.5738636363636,
+          "y_centroid": 264.83522727272725,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 148,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 799.5771428571428,
+          "y_centroid": 264.8,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 149,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 799.5771428571428,
+          "y_centroid": 264.8,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 150,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 787.9139784946236,
+          "y_centroid": 264.494623655914,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 151,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 787.9139784946236,
+          "y_centroid": 264.494623655914,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 152,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 777.2857142857143,
+          "y_centroid": 267.2087912087912,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 153,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 776.68156424581,
+          "y_centroid": 267.0893854748603,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 154,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 776.6348314606741,
+          "y_centroid": 267.07865168539325,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 155,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 766.5195530726257,
+          "y_centroid": 273.89385474860336,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 156,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 766.4545454545455,
+          "y_centroid": 273.95454545454544,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 157,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 754.4013605442177,
+          "y_centroid": 281.578231292517,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 158,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 754.3860759493671,
+          "y_centroid": 281.99367088607596,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 159,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 743.3944444444444,
+          "y_centroid": 294.75555555555553,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 160,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 744.6392694063927,
+          "y_centroid": 295.0,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 161,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 734.625,
+          "y_centroid": 307.9236111111111,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 162,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 734.5769230769231,
+          "y_centroid": 308.18589743589746,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 163,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 734.6258064516129,
+          "y_centroid": 308.18709677419355,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 164,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 724.84375,
+          "y_centroid": 326.234375,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 165,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 724.7164948453608,
+          "y_centroid": 326.67525773195877,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 166,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 705.480198019802,
+          "y_centroid": 310.5742574257426,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 167,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 704.1901840490798,
+          "y_centroid": 308.6196319018405,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 168,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 704.6830985915493,
+          "y_centroid": 308.27464788732397,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 169,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 705.5384615384615,
+          "y_centroid": 286.76331360946745,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 170,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 705.42,
+          "y_centroid": 287.2,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 171,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 692.875,
+          "y_centroid": 272.02777777777777,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 172,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 693.1666666666666,
+          "y_centroid": 269.9425287356322,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 173,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 693.1280487804878,
+          "y_centroid": 270.359756097561,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 174,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 680.289156626506,
+          "y_centroid": 272.8734939759036,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 175,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 679.9491525423729,
+          "y_centroid": 272.0,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 176,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 672.434065934066,
+          "y_centroid": 242.47802197802199,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 177,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 672.3142857142857,
+          "y_centroid": 242.37714285714284,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 178,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 672.2890173410404,
+          "y_centroid": 242.3121387283237,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 179,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 661.515923566879,
+          "y_centroid": 231.40127388535032,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 180,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 661.5569620253165,
+          "y_centroid": 231.4240506329114,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 181,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 650.530303030303,
+          "y_centroid": 224.63131313131314,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 182,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 650.5106382978723,
+          "y_centroid": 224.6968085106383,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 183,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 650.505376344086,
+          "y_centroid": 224.63440860215053,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 184,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 639.5743243243244,
+          "y_centroid": 220.83783783783784,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 185,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 628.0440251572327,
+          "y_centroid": 219.23899371069183,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 186,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 628.0621118012423,
+          "y_centroid": 219.31055900621118,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 187,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 628.03125,
+          "y_centroid": 219.275,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 188,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 617.1534090909091,
+          "y_centroid": 221.8409090909091,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 189,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 617.0225988700565,
+          "y_centroid": 221.96610169491527,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 190,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 607.2670454545455,
+          "y_centroid": 226.67045454545453,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 191,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 607.2329545454545,
+          "y_centroid": 226.7215909090909,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 192,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 607.2471910112359,
+          "y_centroid": 226.65168539325842,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 193,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 595.9116022099447,
+          "y_centroid": 234.88397790055248,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 194,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 595.9226519337017,
+          "y_centroid": 234.98342541436463,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 195,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 584.6432432432432,
+          "y_centroid": 246.94054054054055,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 196,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 584.6432432432432,
+          "y_centroid": 246.94054054054055,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 197,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 584.6432432432432,
+          "y_centroid": 246.94054054054055,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 198,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 573.4263959390863,
+          "y_centroid": 260.46192893401013,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 199,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 573.41,
+          "y_centroid": 260.455,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 200,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 561.578947368421,
+          "y_centroid": 278.34736842105264,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 201,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 561.5751295336787,
+          "y_centroid": 278.4300518134715,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 202,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 561.5360824742268,
+          "y_centroid": 278.4484536082474,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 203,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 553.6548223350254,
+          "y_centroid": 297.78680203045684,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 204,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 552.2692307692307,
+          "y_centroid": 298.34065934065933,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 205,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 539.9157303370787,
+          "y_centroid": 320.80898876404495,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 206,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 539.8486486486487,
+          "y_centroid": 320.8378378378378,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 207,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 539.8486486486487,
+          "y_centroid": 320.8378378378378,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 208,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 529.8844221105528,
+          "y_centroid": 335.286432160804,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 209,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 521.1366459627329,
+          "y_centroid": 328.58385093167703,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 210,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 521.01875,
+          "y_centroid": 328.61875,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 211,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 521.1366459627329,
+          "y_centroid": 328.58385093167703,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 212,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 511.36756756756756,
+          "y_centroid": 324.97297297297297,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 213,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 511.281914893617,
+          "y_centroid": 324.9840425531915,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 214,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 502.6574585635359,
+          "y_centroid": 324.2099447513812,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 215,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 502.70108695652175,
+          "y_centroid": 324.1630434782609,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 216,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 502.7081081081081,
+          "y_centroid": 324.2,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 217,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 492.70652173913044,
+          "y_centroid": 328.5380434782609,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 218,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 492.66483516483515,
+          "y_centroid": 328.0769230769231,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 219,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 482.57709251101323,
+          "y_centroid": 334.44933920704847,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 220,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 482.49122807017545,
+          "y_centroid": 334.46491228070175,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 221,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 482.49122807017545,
+          "y_centroid": 334.46491228070175,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 222,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 473.97159090909093,
+          "y_centroid": 337.4431818181818,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 223,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 473.80232558139534,
+          "y_centroid": 337.3662790697674,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 224,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 461.43783783783783,
+          "y_centroid": 335.92432432432435,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 225,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 461.36315789473684,
+          "y_centroid": 335.7631578947368,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 226,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 461.4375,
+          "y_centroid": 335.7760416666667,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 227,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 454.3821989528796,
+          "y_centroid": 336.6544502617801,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 228,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 453.12849162011173,
+          "y_centroid": 335.43575418994413,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 229,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 453.3987341772152,
+          "y_centroid": 336.1518987341772,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 230,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 453.2027972027972,
+          "y_centroid": 335.76223776223776,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 231,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 453.3525179856115,
+          "y_centroid": 335.6546762589928,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 232,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 454.2269503546099,
+          "y_centroid": 336.1063829787234,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 233,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 453.90625,
+          "y_centroid": 336.09375,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 234,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 453.77777777777777,
+          "y_centroid": 336.04761904761904,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 235,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 453.92622950819674,
+          "y_centroid": 335.90983606557376,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 236,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 453.9384615384615,
+          "y_centroid": 336.7794871794872,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 237,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 453.93908629441626,
+          "y_centroid": 336.7258883248731,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 238,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 448.27272727272725,
+          "y_centroid": 337.1188811188811,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 239,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 448.4413793103448,
+          "y_centroid": 337.13793103448273,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 240,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 448.4413793103448,
+          "y_centroid": 337.13793103448273,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 241,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 445.6680497925311,
+          "y_centroid": 335.3526970954357,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 242,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 444.128078817734,
+          "y_centroid": 335.33004926108373,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 243,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 450.6578947368421,
+          "y_centroid": 335.8618421052632,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 244,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 451.5238095238095,
+          "y_centroid": 335.89115646258506,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 245,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 452.29411764705884,
+          "y_centroid": 335.8014705882353,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 246,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 442.6024844720497,
+          "y_centroid": 335.50931677018633,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 247,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 443.4345238095238,
+          "y_centroid": 334.57142857142856,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 248,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 432.11233480176213,
+          "y_centroid": 335.4030837004405,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 249,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 432.1285046728972,
+          "y_centroid": 335.8247663551402,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 250,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 432.3471074380165,
+          "y_centroid": 334.4504132231405,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 251,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 434.0872727272727,
+          "y_centroid": 332.5272727272727,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 252,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 434.28275862068966,
+          "y_centroid": 332.20344827586206,
+          "visibility": 1
+        }
+      ]
+    },
+    {
+      "frame_index": 253,
+      "objects": [
+        {
+          "object_id": 0,
+          "prompt": "ball",
+          "x_centroid": 433.6506717850288,
+          "y_centroid": 334.28598848368523,
+          "visibility": 1
+        }
+      ]
+    }
+  ]
+}
