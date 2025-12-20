@@ -40,20 +40,7 @@ batch_mode:
   
   selected_range: null
   selected_video_ids: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14"]
-    # - "v_VtEOGd7tD9o_seg_45_55"
-    # - "v_85A2rWA5O3o_seg_20_30"
-    # - "v_4Qrs43i_S50_seg_55_65"
-    # - "v_Q0i1ldFm-oI_seg_95_105"
-    # - "v_5paBdZiLhqQ_seg_15_25"
-    # - "v_W8AmENQ7_ik_seg_30_40"
-    # - "v_pcqaeLRop58_seg_30_40"
-    # - "v_3MK7O6w2Mz8_seg_65_75"
-    # - "v_u1Dxy8jBmYE_seg_70_80"
-    # - "v_qItvl5cX4-A_seg_20_30"
-    # - "v_CwdGYMM2bHM_seg_45_55"
-    # - "v_1YrG1iLwEWk_seg_5_15"
 
-  
   # Skip videos that don't have unique_args_for_grounding_in_vidsitu_order
   skip_videos_without_args: true
 
